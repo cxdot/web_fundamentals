@@ -1,0 +1,145 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    background-color: #062134;
+    width: 970px;
+    height: 1095px;
+}
+#header {
+    height: 90px;
+    width: 970px;
+}
+h1 {
+    color: white;
+    padding: 20px;
+    text-indent: 10px;
+    position: relative;
+    top: 10px;
+}
+span
+ {
+     color: #1B99E8;
+ }
+ li {
+    display: inline-block;
+     position: relative;
+     left: 420px;
+     bottom: 35px;
+     font-size: 17px;
+ }
+a{
+     color: white;
+     padding-left: 50px;
+}
+#white {
+    background-color: white;
+    width: 950px;
+    height: 900px;
+   margin-left: 10px;
+}
+#white img {
+    padding: 20px;
+    width: 910px;
+}
+.mid {
+    width: 291px;
+    height: 230px;
+    background-color: #1468A8;
+    display: inline-block;
+    position: relative;
+    left: 15px;
+    bottom: 475px;
+    margin-left: 15px;
+    vertical-align: top;
+}
+.mid img {
+    width: 40px;
+    padding: 10px;
+}
+p {
+    padding: 15px;
+    font-size: 12px;
+    color: white;
+    position: relative;
+    bottom: 15px;
+}
+.mid span {
+    color: white;
+    display: block;
+}
+button {
+    color: white;
+    font-size: 16px;
+    background: linear-gradient(#56B3EE 50%, #1991DD 50%);
+    height: 40px;
+    width: 140px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 15px;
+}
+#bottom {
+    width: 950px;
+    height: 260px;
+    position: relative;
+    bottom: 465px;
+    left: 10px;
+    background: white;
+}
+#bottom div:first-child{
+    width:911px;
+    height: 50px;
+    background: white;
+    margin-left: 20px;
+}
+#bottom h1 {
+    color: black;
+    display: inline-block;
+    font-size: 21px;
+    padding: 0px;
+
+}
+#bottom h1:nth-child(2) {
+    text-indent: 300px;
+    /*text-align: right;*/
+}
+#bottom div img {
+    width: 290px;
+    margin-left: 20px;
+}
+#bottom div:nth-child(3){
+    width: 291px;
+    height: 155px;
+    background-color: white;
+    position: relative;
+    left: 330px;
+    bottom: 160px;
+}
+#bottom p {
+    color: black;
+}
+#bottom a {
+    position: relative;
+    right: 35px;
+    top:20px;
+    color: blue;
+    text-decoration: none;
+}
+#bottom div:nth-child(4){
+    width: 291px;
+    height: 155px;
+    background-color: #DAEDFF;
+    position: relative;
+    left: 640px;
+    bottom: 315px;
+}
+#footer {
+    width: 950px;
+    height: 70px;
+    background-color: #DAEDFF;
+    position: relative;
+    bottom: 255px;
+    right:0px;
+}

@@ -1,0 +1,122 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    width: 970px;
+    margin: 0px auto;
+    background-color: #062134;
+    /*color: white;*/
+    padding: 20px;
+}
+h1 {
+    text-indent: 25px;
+    color: white;
+}
+#header span {
+    color: #1b9aea;
+}
+#header-right {
+    margin-left: 400px;
+}
+#header h1 {
+    display: inline-block;
+}
+#header ul {
+    display: inline-block;
+    margin-left: 200px;
+}
+#header li {
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 50px;
+}
+#header a {
+    color: white;
+    text-decoration: none;
+}
+#header a:hover{
+    color: #2f6287;
+}
+#white{
+    width: 940px;
+    margin: 0px auto;
+    background-color: white;
+    margin-top: 15px;
+    
+}
+img:first-child{
+    width: 910px;
+    margin: 15px;
+}
+.mid {
+    display: inline-block;
+    background-color: #1468a8;
+    margin: 0px -5px 10px 15px;
+    width: 294px;
+    height: 230px;
+    vertical-align: top;
+    color: white;
+}
+.mid img {
+    width: 40px;
+    margin: 15px 5px 15px 15px;
+}
+.mid h3 {
+    font-size: 20pt;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+}
+.mid p {
+    font-size: 9pt;
+    padding: 0px 15px 5px 15px;
+}
+button {
+    background: linear-gradient(#56B3EE 50%, #1991DD 50%);
+    color: white;
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.bottom {
+    margin-top: 20px;
+}
+#text{
+    margin-top: 5px;
+}
+#text p{
+    font-size: 17pt;
+    display: inline-block;
+    margin-left: 15px;
+}
+#text p:nth-child(2) {
+    margin-left: 300px;
+    margin-top: 10px;
+}
+#content {
+    display: inline-block;
+    /*background-color: #1468a8;*/
+    margin: 0px -5px 10px 15px;
+    width: 294px;
+    height: 230px;
+    vertical-align: top;
+}
+#content img {
+    width: 295px;
+    margin: 0px;
+    margin-top: 10px;
+}
+#content p {
+    padding: 7px;
+    font-size: 9pt;
+}
+#content a {
+    font-size: 12pt;
+    color: #4b7fa4;
+    }
+    

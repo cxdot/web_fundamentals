@@ -1,0 +1,28 @@
+#images{
+	width: 900px;
+	display: inline-block;
+}
+#dex{
+	height: 600px;
+	width: 300px;
+	display: inline-block;
+	background: grey;
+	vertical-align: top;
+	position: fixed;
+	border: 15px red;
+	border-style:solid;
+	/*border-color:red;*/
+}
+img{
+	display: inline-block;
+}
+h2{
+	text-align: center;
+}
+#dex img{
+	margin-left: 80px;
+
+}
+h4, p, li{
+	margin-left: 40px;
+}

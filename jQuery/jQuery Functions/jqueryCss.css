@@ -1,0 +1,167 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#wrapper {
+  width: 1100px;
+  padding: 20px 20px 5px 20px;
+  background-color: #062134;
+  margin: auto;
+}
+
+
+/*<!--Header-->*/
+
+#header h2 {
+  display: inline-block;
+  color: white;
+  margin: 10px 440px 20px 80px;
+}
+
+#header span {
+  color: #1A95E2;
+}
+
+#header a:active {
+  color: #235070;
+}
+
+#header a {
+  margin: 10px;
+  text-decoration: none;
+  color: white;
+}
+
+
+/*<!--Content-->*/
+
+#content {
+  background-color: white;
+  padding: 20px;
+  width: 1060px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+}
+
+#main {
+  margin-bottom: 10px;
+}
+
+.boxes {
+  background-color: #1468A8;
+  height: 200px;
+  width: 300px;
+  display: inline-block;
+  color: white;
+  padding: 25px;
+  vertical-align: top;
+}
+
+.boxes button {
+  background: linear-gradient(#42AAEC, #5BB5EE, #1993DE);
+  border: none;
+  color: white;
+  padding: 15px 3px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  width: 120px;
+  height: 40px;
+  margin-top: 20px;
+  border-radius: 4px;
+  line-height: 15px;
+}
+
+.boxes img {
+  width: 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.boxes p {
+  display: inline-block;
+  font-size: 16px;
+}
+
+.boxes span {
+  font-size: 22px;
+}
+
+
+/*<!--Botcont-->*/
+
+#left {
+  width: 300px;
+  display: inline-block;
+  text-align: center;
+  margin: 0px;
+  font-size: 20px;
+}
+
+#left img {
+  margin-top: 20px;
+  margin-right: 40px;
+}
+
+#mid {
+  display: inline-block;
+  width: 260px;
+  margin-left: 60px;
+}
+
+#mid p {
+  margin: 10px 0px;
+}
+
+#mid a {
+  text-decoration: none;
+  color: #39729B;
+  font-size: 20px;
+}
+
+#right {
+  display: inline-block;
+  width: 300px;
+  vertical-align: top;
+  margin-left: 60px;
+  margin-top: 40px;
+}
+
+#right span {
+  font-size: 24px;
+}
+
+#right p:nth-child(2){
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+/*<!--Footer-->*/
+
+#footer {
+  margin-top: 1px;
+  color: #3B739C;
+  text-align: center;
+  background-color: #DAEDFF;
+  padding: 20px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: #39729B;
+  margin: 0px 10px;
+}
+
+#footer a:active {
+  background-color: #9FCCEE;
+}
+.intro{
+  border: 5px solid black;
+}
+#editme {
+    height: 60px;
+    overflow: scroll;
+}

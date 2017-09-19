@@ -1,0 +1,12 @@
+#pokemon {
+    width: 970px;
+    height: 700px;
+    overflow: scroll;
+    display: inline-block;
+}
+#info {
+    width: 300px;
+    height: 700px;
+    border: 10px solid salmon;
+    display: inline-block;
+}

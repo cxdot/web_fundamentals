@@ -1,0 +1,20 @@
+
+form{
+    display: inline-block;
+}
+input {
+    display: block;
+}
+textarea {
+    display: block;
+    height: 60px;
+    width: 167px;
+}
+#card {
+    height: 200px;
+    width: 500px;
+    background-color: springgreen;
+}
+#de {
+    display: none;
+}

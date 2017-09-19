@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Weather</title>
+        <link type="text/css" rel="stylesheet" href=""/>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script type="text/javascript">
+        
+        $(document).ready(function() {
+            $('form').submit(function() {
+        // your code here (build up your url)
+        $.get("http://api.openweathermap.org/data/2.5/forecast/daily?id=524901&APPID=2293c0cdaed9b8fa9ae0a7d00aebf682", function(res) {
+            
+            // your code here
+        }, 'json');
+        // don't forget to return false so the page doesn't refresh
+        return false;
+    });
+});
+
+        </script>
+    </head>
+    <body>
+        <div id="search">
+        <input type="text">
+        <input type="submit" value="Search Weather">
+        </div>
+    </body>
+</html>
+

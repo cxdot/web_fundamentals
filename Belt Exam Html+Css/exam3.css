@@ -1,0 +1,131 @@
+#wrapper{
+    width: 1000px;
+    margin: 0px auto;
+    background: linear-gradient(#3673b9, #204670, #1f446d);
+}
+#header {
+    background: #ece9e6;
+}
+#header img:first-child {
+    margin-left: 15px;
+    margin-top: 10px;
+    display: inline-block;
+}
+#search {
+    margin-left: 550px;
+    display: inline-block;
+}
+#header img:nth-child(3) {
+    margin-top: 20px;
+}
+#nav {
+    margin-left: 240px;
+}
+#nav li {
+    display: inline-block;
+    margin-right: -80px;
+    margin-left: 100px;
+}
+#nav a {
+    text-decoration: none;
+    color: black;
+}
+#mid {
+    padding-bottom: 10px;
+    display: inline-block;
+}
+#login {
+    margin-left: 20px;
+    width: 250px;
+    height: 265px;
+    background: #D4DBE3;
+}
+.manage{
+    height: 50px;
+    background: linear-gradient(#3673b9, #204670);
+    color: white;
+    margin-top: 0px;
+    border: 1px solid white;
+}
+#login span {
+    display: block;
+}
+#button {
+    margin: 10px 0px 10px 20px;
+    Width: 250px;
+    height: 40px;
+    border: 1px solid white;
+    background: linear-gradient(#154375, #2665AC);
+}
+#custo {
+    width: 100%;
+    height:100%;
+    background: linear-gradient(#154375, #2665AC);
+    color: white;
+}
+#right {
+    display: inline-block;
+    height:310px;
+}
+.news {
+    margin-top: -10px;
+    background-color:#D4DBE3;
+    width: 98.8%;
+    height: 20px;
+    border: 1px solid black;
+    text-indent: 40px;
+    padding: 5px;
+}
+h5 span {
+    color: #136bff;
+}
+.bottom {
+    margin-left: 20px;
+    width: 300px;
+    height: 100px;
+    background: white;
+    border: 2px solid grey;
+    display: inline-block;
+    vertical-align: top;
+}
+.bottom img {
+ margin: 10px;
+ display: inline-block;
+
+}
+.bottom h5{
+    margin: 15px 0px 0px 0px;
+    /*padding:0px;*/
+    display: inline-block;
+    vertical-align: top;
+}
+.bottom p{
+    font-size: 9pt;
+    color: blue;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+}
+#boxes {
+    padding-bottom: 15px;
+}
+#footer {
+    background: #ece9e6;
+    height: 25px;
+    border: 1px solid black;
+}
+#footer li {
+    display: inline-block;
+    margin-right: 5px;
+    padding: 2px;
+}
+#move{
+    margin-left: 140px;
+}
+#color {
+    color: green;
+}
+#footer a {
+    text-decoration: none;
+    color: black;
+}

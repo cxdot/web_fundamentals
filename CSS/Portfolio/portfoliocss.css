@@ -1,0 +1,135 @@
+#header {
+    height: 50px;
+    width: 890px;
+    background-color: #F8F8F8;  
+    display: inline-block; 
+    position: relative;
+    right: 25px;
+    top: -25px;
+}
+#header h1 {
+     display: inline-block;
+     position: relative; 
+     top: -20px;
+     margin-left: 20px;
+     font-family: Comic Sans MS;
+}
+#header h3 {
+    display: inline-block;
+    margin-left: 390px;
+    position: relative;
+    top: -25px;
+}
+#wrapper {
+    height: 970px;
+    width: 850px;
+    background-color: #5C4751;
+    padding: 15px;
+}
+.profile {
+    border: 4px solid grey;
+    margin-left: 10px;
+}
+#about {
+    height: 237px;
+    width: 430px;
+    background-color: #DDD0DC;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+}
+#back {
+    background: linear-gradient(#ACABB1, #8E8D99, #ACABB1);
+    height:40px
+}
+.mid {
+	height: 590px;
+	width: 268px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 15px;
+    vertical-align: top;
+    background-color: #E1D4E0;
+}
+h2{
+    background: linear-gradient(#ACABB1, #8E8D99, #ACABB1);
+    height: 40px;
+    margin: 0px;
+    color: white;
+    text-indent: 10px;
+    padding-top: 10px;
+}
+.tech1 {
+    margin-top: 70px;
+}
+.tech2 {
+    margin-top: 38px;
+}
+p {
+    font-size: 14px;
+    padding: 5px;
+}
+#images {
+    padding: 10px;
+}
+#img {
+    padding: 10px;
+}
+#imgs {
+    padding: 10px;
+}
+.pure-button {
+    position: relative;
+    top: 35px;
+    right: 50px;
+    background: #427E62;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    border: 1px solid black;
+}
+.pure-button2 {
+    position: relative;
+    top: 15px;
+    left: 65px;
+    background: #427E62;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    border: 1px solid black;
+}
+.pure-button3 {
+    position: relative;
+    top: 15px;
+    left: 80px;
+    background: #427E62;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    border: 1px solid black;
+}
+a {
+    color: black;
+    position: relative;
+    bottom: 10px;
+}
+#footer {
+    background-color: #FAFAFA;
+    height: 70px;
+    width: 880px;
+    position: relative;
+    right: 589px;
+    top: 30px;
+}
+.technologies {
+    margin-top: -7px;
+}
+#footer p {
+    text-align: center;
+    font-size: 18px;
+}
+#bottom {
+    margin-left: 280px;
+    position: relative;
+    bottom: 10px;
+}

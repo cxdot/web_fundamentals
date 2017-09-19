@@ -1,0 +1,46 @@
+/*input{
+	display: block;
+}
+
+#submit {
+	margin-top: 10px;
+
+}
+#text{
+	height: 100px;
+	width: 200px;
+	display: block;
+}
+
+.card{
+	height: 200px;
+	width: 400px;
+	background: grey;
+	display: inline-block;
+	margin-left: 150px;
+	float: right;
+	margin-bottom: 10px;
+	margin-top:10px;
+	position: relative;
+}
+form{
+	display: inline-block;
+	vertical-align: top;
+}
+h1{
+	margin: 0;
+	text-align: center;
+	margin-top:30px;
+	color: blue;
+}
+p {
+	text-align: center;	
+	font-size:15px;
+	margin: 0;
+	margin-top:100px;
+}*/
+.image{
+	height: 110px;
+	width: 110px;
+	display: inline-block;
+}
